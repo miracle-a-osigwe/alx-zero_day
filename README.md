@@ -1,2 +1,1 @@
-Progress is made
-My first readme
+Progress is made with my first readme
